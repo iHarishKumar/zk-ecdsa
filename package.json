@@ -1,0 +1,16 @@
+{
+  "name": "zk_ecdsa",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "recoverPubKey.js",
+  "scripts": {
+    "start": "node recoverPubKey.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ethers": "^6.10.0"
+  }
+}

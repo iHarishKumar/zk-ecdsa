@@ -1,0 +1,20 @@
+# Node.js
+target/
+node_modules/
+*.log
+.DS_Store
+.env
+package-lock.json
+
+# Noir
+**/target/
+**/Prover.toml
+**/Verifier.toml
+**/proofs/
+**/contract/
+
+# Local environment
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
