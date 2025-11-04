@@ -1,4 +1,4 @@
-# zk-ecdsa
+# Zero Knowledge ECDSA Signature Verification with Noir
 
 [![Noir](https://img.shields.io/badge/Built%20with-Noir-000000)](https://noir-lang.org/)
 [![zkSNARKs](https://img.shields.io/badge/Cryptography-zkSNARKs-blue)](https://z.cash/technology/zksnarks/)
